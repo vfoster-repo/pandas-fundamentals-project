@@ -41,7 +41,7 @@ jupyter notebook (or JupyterLab)
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/movies-analysis-project.git
+git clone https://github.com/vfoster-code/movies-analysis-project.git
 cd movies-analysis-project
 ```
 
