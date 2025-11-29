@@ -134,7 +134,7 @@ This project was completed as part of the TripleTen AI/ML Engineering program.
 ## Author
 
 **Your Name**
-- GitHub: [@vfoster-code](https://github.com/vfoster-code)
+- GitHub: [@vfoster-repo](https://github.com/vfoster-repo)
 - LinkedIn: [Victor Foster](https://linkedin.com/in/vfoster-connect)
 - Email: victorfoster@hotmail.com
 
