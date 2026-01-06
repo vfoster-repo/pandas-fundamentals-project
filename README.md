@@ -41,13 +41,13 @@ jupyter notebook (or JupyterLab)
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/vfoster-code/movies-analysis-project.git
-cd movies-analysis-project
+git clone https://github.com/vfoster-code/pandas-fundamentals-project.git
+cd pandas-fundamentals-project
 ```
 
 2. Install required packages:
 ```bash
-pip install pandas jupyter
+pip install -r requirements.txt
 ```
 
 3. Launch Jupyter Notebook:
@@ -60,11 +60,12 @@ Alternatively, you can view the notebook by opening `movies_analysis_project.htm
 ## Project Structure
 
 ```
-movies-analysis-project/
+pandas-fundamentals-project/
 │
 ├── README.md                          # Project documentation
 ├── movies_analysis_project.ipynb      # Main analysis notebook
 ├── movies_analysis_project.html       # HTML version of the notebook
+├── requirements.txt                   # Python dependencies
 ├── data/
      └── movies_and_shows.csv          # Dataset
 ```
