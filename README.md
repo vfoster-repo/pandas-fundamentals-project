@@ -57,17 +57,17 @@ jupyter notebook movies_analysis_project.ipynb
 
 Alternatively, you can view the notebook by opening `movies_analysis_project.html` in any web browser for a read-only view of the complete analysis.
 
-## Project Structure
+## Repository Structure
 
 ```
 pandas-fundamentals-project/
 │
-├── README.md                          # Project documentation
-├── movies_analysis_project.ipynb      # Main analysis notebook
-├── movies_analysis_project.html       # HTML version of the notebook
-├── requirements.txt                   # Python dependencies
-├── data/
-     └── movies_and_shows.csv          # Dataset
+├── README.md
+├── requirements.txt
+├── index.html
+├── movies_analysis_project.ipynb
+└── data/
+    └── movies_and_shows.csv
 ```
 
 ## Key Features
