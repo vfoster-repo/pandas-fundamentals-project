@@ -55,6 +55,8 @@ pip install pandas jupyter
 jupyter notebook movies_analysis_project.ipynb
 ```
 
+Alternatively, you can view the notebook by opening `movies_analysis_project.html` in any web browser for a read-only view of the complete analysis.
+
 ## Project Structure
 
 ```
@@ -62,6 +64,7 @@ movies-analysis-project/
 │
 ├── README.md                          # Project documentation
 ├── movies_analysis_project.ipynb      # Main analysis notebook
+├── movies_analysis_project.html       # HTML version of the notebook
 ├── data/
      └── movies_and_shows.csv          # Dataset
 ```
