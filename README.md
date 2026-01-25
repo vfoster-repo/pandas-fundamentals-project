@@ -4,12 +4,37 @@ A comprehensive data analysis project using Python and pandas to explore a datas
 
 ## Project Overview
 
+**Business Context:** Understanding streaming content landscape for content acquisition or production decisions.
+
 This project demonstrates fundamental data analysis skills including:
 - Data cleaning and standardization
 - Exploratory data analysis (EDA)
 - Data filtering and manipulation with pandas
 - Custom function development for reusable analysis
 - IMDb rating categorization and insights
+
+## What This Demonstrates
+
+### Learning Challenge
+- Pandas library fundamentals (filtering, sorting, grouping)
+- Working with mixed content types and missing data
+- Understanding streaming industry dynamics
+
+### Problem-Solving Process
+1. **Tool Mastery**: Systematically learned pandas operations through this project
+2. **Data Quality**: Addressed missing data and inconsistencies professionally
+3. **Content Analysis**: Examined genres, release patterns, and content distribution
+4. **Insight Generation**: Identified trends that could guide content strategy
+
+### Professional Outcome
+- Created analysis that a content team could use for programming decisions
+- Demonstrated systematic approach to learning a new technical library
+- Built foundation skills transferable to any data manipulation task
+
+### Tools Utilized
+- VS Code with GitHub Copilot for development
+- Jupyter Notebook for interactive analysis
+- Git/GitHub for version control
 
 ## Dataset
 
