@@ -66,7 +66,7 @@ jupyter notebook (or JupyterLab)
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/vfoster-code/pandas-fundamentals-project.git
+git clone https://github.com/vfoster-repo/pandas-fundamentals-project.git
 cd pandas-fundamentals-project
 ```
 
